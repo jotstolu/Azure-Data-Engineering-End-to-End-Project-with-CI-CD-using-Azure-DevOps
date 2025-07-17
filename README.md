@@ -20,8 +20,6 @@ Key features of the project:
 
 The architecture showcases an orchestrated data flow with CI/CD integration:
 
-![Olympics Architecture](./assets/olympics_architecture.png)
-
 ---
 
 ## 🔄 Azure Data Factory Pipeline
@@ -43,7 +41,7 @@ The Silver layer consists of Databricks jobs that dynamically process multiple J
 - Converts raw Bronze data to clean Silver tables
 - Saves each transformed dataset to its respective Silver container
 
-![Dynamic Data Reading](./assets/dynamic_data_reading_and_writing_workflow.png)
+![Dynamic Data Reading](https://github.com/jotstolu/Azure-Data-Engineering-End-to-End-Project-with-CI-CD-using-Azure-DevOps/blob/main/assets/img/dynamic%20data%20reading%20and%20writing%20workflow.png?raw=true)
 
 ---
 
