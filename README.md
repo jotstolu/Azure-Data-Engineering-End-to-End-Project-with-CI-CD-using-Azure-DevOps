@@ -55,7 +55,7 @@ The Gold layer is built using **Delta Live Tables (DLT)**.
 - Applies transformations and merges into star-schema-ready tables
 - DLT manages schema enforcement and handles incremental loads
 
-![DLT Pipeline](./assets/DLT_pipeline.png)
+![DLT Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-End-to-End-Project-with-CI-CD-using-Azure-DevOps/blob/main/assets/img/DLT_pipeline.png?raw=true)
 
 ---
 
