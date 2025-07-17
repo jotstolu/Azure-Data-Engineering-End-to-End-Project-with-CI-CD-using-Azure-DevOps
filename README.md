@@ -29,7 +29,7 @@ This pipeline handles automated ingestion of CSV files from GitHub into **ADLS G
 - The `LookupJson` and `ForEach` logic dynamically controls file iteration.
 - Ingested data is stored in a Bronze container for transformation.
 
-![ADF Pipeline](./assets/datafactory_pipeline.png)
+![ADF Pipeline](https://github.com/jotstolu/Azure-Data-Engineering-End-to-End-Project-with-CI-CD-using-Azure-DevOps/blob/main/assets/img/datafactory%20pipeline.png?raw=true)
 
 ---
 
